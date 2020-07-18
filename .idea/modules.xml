@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/felix-coupon/felix-coupon.iml" filepath="$PROJECT_DIR$/felix-coupon/felix-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/felix-member/felix-member.iml" filepath="$PROJECT_DIR$/felix-member/felix-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/felix-order/felix-order.iml" filepath="$PROJECT_DIR$/felix-order/felix-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/felix-product/felix-product.iml" filepath="$PROJECT_DIR$/felix-product/felix-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/felix-ware/felix-ware.iml" filepath="$PROJECT_DIR$/felix-ware/felix-ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/felixmall.iml" filepath="$PROJECT_DIR$/.idea/felixmall.iml" />
+    </modules>
+  </component>
+</project>
