@@ -21,7 +21,10 @@
 		<module>felix-order</module>
 		<module>felix-product</module>
 		<module>felix-ware</module>
-	</modules>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
+        <module>felix-common</module>
+    </modules>
 
 
 
